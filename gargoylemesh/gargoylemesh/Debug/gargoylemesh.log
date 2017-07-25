@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ssdn\documents\visual studio 2015\projects\gargoylemesh\gargoylemesh\source.cpp(140): warning C4390: ';': empty controlled statement found; is this the intent?
+  gargoylemesh.vcxproj -> C:\Users\SSDN\Documents\Visual Studio 2015\Projects\gargoylemesh\Debug\gargoylemesh.exe
+  gargoylemesh.vcxproj -> C:\Users\SSDN\Documents\Visual Studio 2015\Projects\gargoylemesh\Debug\gargoylemesh.pdb (Partial PDB)
